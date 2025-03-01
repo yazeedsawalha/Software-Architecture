@@ -1,0 +1,7 @@
+# .gitignore Configuration
+
+# Ignore all .DS_Store files (macOS system files)
+*.DS_Store
+
+# Ignore the entire /obsidian directory (Obsidian app settings)
+.obsidian/
